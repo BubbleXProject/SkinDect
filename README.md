@@ -1,4 +1,4 @@
-![image SkinDect](SkinDect/Logo/example.png)
+![image SkinDect](Logo/example.png)
 
 # bangkit-capstone-project
 
