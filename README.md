@@ -1,6 +1,6 @@
 ![image SkinDect](Logo/example.png)
 
-# bangkit-capstone-project
+# Capstone Project
 
 This App "Skin Dect"we build to complete capstone project
 
@@ -10,7 +10,7 @@ This App "Skin Dect"we build to complete capstone project
 
 SkinDect is an application to analize some skin disease.
 
-# The Team
+# The Developer
 
 |          Member           |  Student ID  |        Path        |                    Role                    |                                                       Contacts                                                        |
 | :-----------------------: | :----------: | :----------------: | :----------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
@@ -29,4 +29,4 @@ SkinDect is an application to analize some skin disease.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right"> Keep Going On And Bangkit Everyday! <br>  C242-PS501 Teams </p>
+<p align="right"> Iqball Team, Still Learning! <br>  C242-PS501 Teams </p>
