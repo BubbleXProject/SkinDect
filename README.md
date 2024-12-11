@@ -1,4 +1,7 @@
-![image SkinDect](Logo/LogoSkinDect.png)
+
+<p align="center">
+  ![image SkinDect](Logo/LogoSkinDect.png)
+</p>
 
 # Capstone Project
 
