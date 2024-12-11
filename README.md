@@ -25,6 +25,10 @@ SkinDect is an application to analize some skin disease.
 # Service Architecture
 
 ![Service_Architecture](h)
+-Cloud Run
+-Cloud Build
+-Cloud Storage
+-Cloud Firestore
 
 # License
 
