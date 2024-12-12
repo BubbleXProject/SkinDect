@@ -3,9 +3,9 @@
 
 # Capstone Project
 
-This App "Skin Dect"we build to complete capstone project
+This App "Skin Dect" we build to complete capstone project
 
-![SkinDect](https://github.com/Iqball-rgb/SkinDect)
+![SkinDect](Logo/example.png)
 
 # About
 
@@ -23,15 +23,14 @@ SkinDect is an application to analize some skin disease.
 |   Abdul Hafiz As Syamil   | A251B4KY0024 | Mobile Development |          Android Mobile Developer          |                                 [LinkedIn]() or [Github](https://github.com/assyamil)                                 |
 
 # Service Architecture
-
-![Service_Architecture](h)
+<!-- [Service_Architecture](h) -->
 -Cloud Run
 -Cloud Build
 -Cloud Storage
 -Cloud Firestore
 
-# License
+<!-- # License -->
 
-Distributed under the MIT License. See `LICENSE` for more information.
+<!-- Distributed under the MIT License. See `LICENSE` for more information. -->
 
 <p align="right"> Iqball Team, Still Learning! <br>  C242-PS501 Teams </p>
