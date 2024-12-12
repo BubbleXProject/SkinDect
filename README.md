@@ -23,13 +23,10 @@ SkinDect is a mobile application that use machine learning to analyze some skin 
 |   Abdul Hafiz As Syamil   | A251B4KY0024 | Mobile Development |          Android Mobile Developer          |                                 [LinkedIn]() or [Github](https://github.com/assyamil)                                 |
 
 # Service Architecture
-# Cloud Computing
-![SkinDect](Logo/ServiceArchitecture.png)
-# Machine Learning
 ![SkinDect](Logo/ServiceArchitecture.png)
 
 <!-- # License -->
 
 <!-- Distributed under the MIT License. See `LICENSE` for more information. -->
 
-<p align="right"> Iqball Team, Still Learning! <br>  C242-PS501 Teams </p>
+<p align="right"> Keep Going On!<br>  C242-PS501 Teams </p>
