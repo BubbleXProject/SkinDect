@@ -32,7 +32,7 @@ SkinDect is a mobile application that use machine learning to analyze some skin 
 |    M.Fauzhi Azhima. M     | M251B4KY2342 |  Machine Learning  |         Machine Learning Engineer          |      [LinkedIn](https://www.linkedin.com/in/m-fauzhi-azhima-774891327/) or [Github](https://github.com/Fauzinih)      |
 |  Ragil Rachmad Gustillah  | C251B4KY3616 |  Cloud Computing   |          Cloud Computing Engineer          |  [LinkedIn](https://www.linkedin.com/in/ragil-rachmad-gustillah-427532247/) or [Github](https://github.com/Rageels)   |
 |   Rifky Fahriza Sinaga    | C251B4KY3844 |  Cloud Computing   |          Cloud Computing Engineer          |          [LinkedIn](https://www.linkedin.com/in/rifkysinaga/) or [Github](https://github.com/BubbleXProject)          |
-|   Abdul Hafiz As Syamil   | A251B4KY0024 | Mobile Development |          Android Mobile Developer          |                                 [LinkedIn](www.linkedin.com/in/abdul-hafiz-as-syamil-30aaa7309) or [Github](https://github.com/assyamil)                                 |
+|   Abdul Hafiz As Syamil   | A251B4KY0024 | Mobile Development |          Android Mobile Developer          |                                 [LinkedIn](https://www.linkedin.com/in/abdul-hafiz-as-syamil-30aaa7309) or [Github](https://github.com/assyamil)                                 |
 
 # Service Architecture
 ![SkinDect](Logo/ServiceArchitecture.png)
