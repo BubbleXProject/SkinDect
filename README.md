@@ -5,7 +5,7 @@
 
 This App "SkinDect" we build to complete capstone project
 
-![SkinDect](Logo/example.png)
+![SkinDect](Logo/tampilan.jpg)
 
 # About
 
