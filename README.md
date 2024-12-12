@@ -23,7 +23,9 @@ SkinDect is an application to analize some skin disease.
 |   Abdul Hafiz As Syamil   | A251B4KY0024 | Mobile Development |          Android Mobile Developer          |                                 [LinkedIn]() or [Github](https://github.com/assyamil)                                 |
 
 # Service Architecture
-
+# Cloud Computing
+![SkinDect](Logo/ServiceArchitecture.png)
+# Machine Learning
 ![SkinDect](Logo/ServiceArchitecture.png)
 
 <!-- # License -->
