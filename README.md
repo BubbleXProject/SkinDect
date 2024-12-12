@@ -13,9 +13,9 @@ SkinDect is a mobile application that use machine learning to analyze some skin 
 
 # Main Features
 
-1. To detect users skin diseases
-2. Give users recommendation how to cure and handle the users skin diseases
-3. User Interface: Friendly and easy-to-use UI design
+1.To detect users skin diseases
+2.Give users recommendation how to cure and handle the users skin diseases
+3.User Interface: Friendly and easy-to-use UI design
 
 # The Developer
 
