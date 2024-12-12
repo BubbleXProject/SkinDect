@@ -9,7 +9,7 @@ This App "SkinDect" we build to complete capstone project
 
 # About
 
-SkinDect is an application to analize some skin disease.
+SkinDect is a mobile application that use machine learning to analyze some skin diseases. This application aims for affordable functions, user-friendly tools for early skin detection and monitoring. its focuses to empowering users to manage their skin health, especially in undeserved regions.
 
 # The Developer
 
