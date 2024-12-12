@@ -3,7 +3,7 @@
 
 # Capstone Project
 
-This App "Skin Dect" we build to complete capstone project
+This App "SkinDect" we build to complete capstone project
 
 ![SkinDect](Logo/example.png)
 
