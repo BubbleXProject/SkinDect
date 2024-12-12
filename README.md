@@ -17,6 +17,12 @@ SkinDect is a mobile application that use machine learning to analyze some skin 
 2. Give users recommendation how to cure and handle the users skin diseases
 3. User Interface: Friendly and easy-to-use UI design
 
+# How To Use The Application
+
+1. Open the SkinDect application
+2. Upload or take a picture of your skin disease
+3. Get the result of your skin disease
+
 # The Developer
 
 |          Member           |  Student ID  |        Path        |                    Role                    |                                                       Contacts                                                        |
