@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177219616299",
+    "project_id": "skindect-ml-dicoding",
+    "storage_bucket": "skindect-ml-dicoding.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177219616299:android:6aa610a97aaf09772d746e",
+        "android_client_info": {
+          "package_name": "com.dicoding.capstone.skindect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177219616299-nq6dq8bmb1mr9tcvqho9nqphm0ajfv1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxNTDS7voRJEa1hZI8JK0Lm6T-Umxylnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177219616299-nq6dq8bmb1mr9tcvqho9nqphm0ajfv1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
